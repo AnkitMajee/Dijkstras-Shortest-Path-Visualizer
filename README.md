@@ -14,7 +14,7 @@ This project provides a visualization of Dijkstra's Algorithm, a popular algorit
 
 ## Demo
 
-You can see a live demo of the project [here](link_to_live_demo).
+You can see a live demo of the project [here](https://dijkstras-shortest-path-visualizer.vercel.app/).
 
 ## Getting Started
 
@@ -35,14 +35,14 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
     cd dijkstras-algorithm-visualization
 
- 3.Install the required dependencies:
-  ```bash
+3. Install the required dependencies:
+   ```bash
     npm install
 
- 4.Start the development server:
-  ```bash
+ 4. Start the development server:
+    ```bash
       npm start
 
-  Open your web browser and navigate to
-  ```bash
+5. Open your web browser and navigate to
+    ```bash
       http://localhost:3000 to use the visualization tool.
