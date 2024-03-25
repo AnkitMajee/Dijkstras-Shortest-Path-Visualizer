@@ -1,6 +1,7 @@
 # Dijkstras-Shortest-Path-Visualizer
 
-![Demo](demo.gif)
+![image](https://github.com/AnkitMajee/Dijkstras-Shortest-Path-Visualizer/assets/76817118/ffcfb4fd-8e04-4137-b7e2-5a7514c5d825)
+
 
 ## Overview
 
